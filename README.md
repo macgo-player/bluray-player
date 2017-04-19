@@ -12,5 +12,4 @@ Blu-ray playback is unable to be open-sourced due to [AACS], [BD+], [BD Format],
 [BD+]: http://www.bdplusllc.com/
 [BD Format]: http://www.blu-raydisc.info/
 
-========
-<sup>Blu-ray Disc™, Blu-ray™ and the logos are trademarks of Blu-ray Disc Association.</sup>
+<sup>* Blu-ray Disc™, Blu-ray™ and the logos are trademarks of Blu-ray Disc Association.</sup>
