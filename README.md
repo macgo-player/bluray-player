@@ -4,7 +4,7 @@ Mac Blu-ray Player can be download at: https://macblurayplayer.com/
 
 This repository is used only for Github's [wiki] and [issue tracking].
 
-Blu-ray playback is unable to be open-sourced due to [AACS], [BD+], [BD Format], and many other reasons.
+Blu-ray playback is unable to be open-sourced due to [AACS], [BD+], [BD Format], and so forth licenses.
 
 [wiki]: https://github.com/macgo-player/bluray-player/wiki
 [issue tracking]: https://github.com/macgo-player/bluray-player/issues
