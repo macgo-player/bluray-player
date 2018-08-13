@@ -1,7 +1,6 @@
 # Macgo Blu-ray Player
 
-Macgo Blu-ray Player can be download at https://macblurayplayer.com/  
-A special version is also available on the [Mac App Store](https://itunes.apple.com/us/app/macgo-blu-ray-player/id1321354161?ls=1&mt=12).
+[Macgo Blu-ray Player](https://itunes.apple.com/us/app/macgo-blu-ray-player/id1321354161?ls=1&mt=12) and the [Pro version](https://itunes.apple.com/us/app/macgo-blu-ray-player-pro/id1403952861?l=en&mt=12) are available on the Mac App Store. It also can be downloaded from https://macblurayplayer.com/
 
 This repository is used only for Github's [wiki] and [issue tracking].
 
